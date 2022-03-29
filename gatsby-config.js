@@ -7,14 +7,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitle: `Cara`,
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteTitle: `Taylor Acorn`,
+    siteTitleAlt: `Taylor Acorn - Singer/Songwriter`,
+    siteHeadline: `Taylor Acorn`,
+    siteUrl: ``,
+    siteDescription: `Taylor Acorn Main Site`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@j_abed`,
   },
   plugins: [
     {
@@ -25,11 +25,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        // `Cara - @lekoarts/gatsby-theme-cara`
+        name: `Taylor Acorn`,
+        short_name: `Taylor`,
+        description: `Taylor Acorn's One-Page profile featuring Parallax`,
         start_url: `/`,
-        background_color: `#141821`,
+        background_color: `#000000`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#f6ad55`,
