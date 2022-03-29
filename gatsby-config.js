@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Taylor Acorn`,
     siteTitleAlt: `Taylor Acorn - Singer/Songwriter`,
     siteHeadline: `Taylor Acorn`,
-    siteUrl: ``,
+    siteUrl: `gatsbystarterportfoliotaycorn.gatsbyjs.io`,
     siteDescription: `Taylor Acorn Main Site`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
